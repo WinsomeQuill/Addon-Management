@@ -25,6 +25,7 @@ To start the program, enter:
 
     python3 main.py
 Or
+
     python main.py
 
 Special Thanks
