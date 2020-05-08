@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'C:\Users\artem\Desktop\gmad\other\3.8\error.ui'
 #
 # Created by: PyQt5 UI code generator 5.14.2
 #
